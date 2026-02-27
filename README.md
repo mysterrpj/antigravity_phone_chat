@@ -191,3 +191,17 @@ For more technical details, check out:
 
 Licensed under the [GNU GPL v3](LICENSE).  
 Copyright (C) 2026 **Krishna Kanth B** (@krishnakanthb13)
+
+---
+
+## Star History
+
+<a href="https://www.star-history.com/#krishnakanthb13/antigravity_phone_chat&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=krishnakanthb13/antigravity_phone_chat&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=krishnakanthb13/antigravity_phone_chat&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=krishnakanthb13/antigravity_phone_chat&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
